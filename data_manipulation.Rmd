@@ -1,5 +1,5 @@
 ---
-title: "Simple document"
+title: "Data Maniputation"
 output: github_document
 ---
 ```{r}
